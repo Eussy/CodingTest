@@ -33,5 +33,8 @@
     <ClCompile Include="0x03Array_연습문제2.cpp">
       <Filter>소스 파일\BarkingDogLecture</Filter>
     </ClCompile>
+    <ClCompile Include="0x03LinkedList_구현.cpp">
+      <Filter>소스 파일\BarkingDogLecture</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
