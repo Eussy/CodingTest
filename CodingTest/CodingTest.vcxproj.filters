@@ -13,5 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\BOJ">
+      <UniqueIdentifier>{b27fcfc2-9b5e-47d7-99ed-ac885d978c80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Programmers">
+      <UniqueIdentifier>{9785c369-5c44-40c7-9347-eb5ceb46b5da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BarkingDogLecture">
+      <UniqueIdentifier>{ac0a0d2b-5cc6-45df-8380-453144aa13a4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="0x03Array.cpp">
+      <Filter>소스 파일\BarkingDogLecture</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
