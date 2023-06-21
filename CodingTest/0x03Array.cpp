@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// 내 풀이 : 임시 배열을 만들어 옮기기
 void insert(int idx, int num, int arr[], int& len) {
 	int temp[100] = { 0, };
 
@@ -19,12 +20,30 @@ void insert(int idx, int num, int arr[], int& len) {
 	len++;
 }
 
+// 바킹독 풀이 : 오른쪽부터 옮기기
+void insert(int idx, int num, int arr[], int& len) {
+	for (int i = len; i > idx; i--)
+		arr[i] = arr[i - 1];
+	arr[idx] = num;
+	len++;
+}
+
+// 내 풀이 : 왼쪽부터 먼저 옮기고 길이를 줄이기
 void erase(int idx, int arr[], int& len) {
 	for (int i = idx; i < len - 1; i++)
 	{
 		arr[i] = arr[i + 1];
 	}
 	len--;
+}
+
+// 바킹독 풀이 : 길이를 먼저 줄이고 왼쪽부터 옮기기
+void erase(int idx, int arr[], int& len) {
+	len--;
+	for (int i = idx; i < len; i++)
+	{
+		arr[i] = arr[i + 1];
+	}
 }
 
 void printArr(int arr[], int& len) {
