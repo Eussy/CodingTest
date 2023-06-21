@@ -24,7 +24,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="0x03Array.cpp">
+    <ClCompile Include="0x03Array_구현.cpp">
+      <Filter>소스 파일\BarkingDogLecture</Filter>
+    </ClCompile>
+    <ClCompile Include="10808.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="0x03Array_연습문제2.cpp">
       <Filter>소스 파일\BarkingDogLecture</Filter>
     </ClCompile>
   </ItemGroup>
