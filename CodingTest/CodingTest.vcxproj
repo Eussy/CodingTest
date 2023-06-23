@@ -140,6 +140,24 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="1406.cpp" />
+    <ClCompile Include="level1_가장가까운같은글자.cpp" />
+    <ClCompile Include="level1_개인정보수집유효기간.cpp" />
+    <ClCompile Include="level1_공원산책.cpp" />
+    <ClCompile Include="level1_과일장수.cpp" />
+    <ClCompile Include="level1_기사단원의무기.cpp" />
+    <ClCompile Include="level1_달리기경주.cpp" />
+    <ClCompile Include="level1_둘만의암호.cpp" />
+    <ClCompile Include="level1_명예의전당(1).cpp" />
+    <ClCompile Include="level1_문자열나누기.cpp" />
+    <ClCompile Include="level1_바탕화면정리.cpp" />
+    <ClCompile Include="level1_삼총사.cpp" />
+    <ClCompile Include="level1_숫자짝꿍.cpp" />
+    <ClCompile Include="level1_옹알이(2).cpp" />
+    <ClCompile Include="level1_콜라문제.cpp" />
+    <ClCompile Include="level1_크기가작은부분문자열.cpp" />
+    <ClCompile Include="level1_푸드파이트대회.cpp" />
+    <ClCompile Include="level1_햄버거만들기.cpp" />
+    <ClCompile Include="level2_JadenCase 문자열 만들기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
