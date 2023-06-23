@@ -158,6 +158,7 @@
     <ClCompile Include="level1_푸드파이트대회.cpp" />
     <ClCompile Include="level1_햄버거만들기.cpp" />
     <ClCompile Include="level2_JadenCase 문자열 만들기.cpp" />
+    <ClCompile Include="level2_올바른 괄호.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
