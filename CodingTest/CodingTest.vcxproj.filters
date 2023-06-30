@@ -117,5 +117,11 @@
     <ClCompile Include="10828_스택.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
+    <ClCompile Include="0x06Queue_구현.cpp">
+      <Filter>소스 파일\BarkingDogLecture</Filter>
+    </ClCompile>
+    <ClCompile Include="10845_큐.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
