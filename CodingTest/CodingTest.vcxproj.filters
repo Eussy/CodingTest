@@ -96,8 +96,56 @@
     <ClCompile Include="level2_올바른 괄호.cpp">
       <Filter>소스 파일\Programmers</Filter>
     </ClCompile>
+    <ClCompile Include="1926.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
     <ClCompile Include="0x09BFS_구현.cpp">
       <Filter>소스 파일\BarkingDogLecture</Filter>
+    </ClCompile>
+    <ClCompile Include="2178_미로탐색.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4179_불!.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1697_숨바꼭질.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="0x05Stack_구현.cpp">
+      <Filter>소스 파일\BarkingDogLecture</Filter>
+    </ClCompile>
+    <ClCompile Include="10828_스택.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="0x06Queue_구현.cpp">
+      <Filter>소스 파일\BarkingDogLecture</Filter>
+    </ClCompile>
+    <ClCompile Include="10845_큐.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="0x07Deque_구현.cpp">
+      <Filter>소스 파일\BarkingDogLecture</Filter>
+    </ClCompile>
+    <ClCompile Include="10866_덱.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4949_균형잡힌 세상.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10799_쇠막대기.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2504_괄호의 값.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1629_곱셈.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11729_하노이 탑 이동 순서.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1074_Z.cpp">
+      <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
