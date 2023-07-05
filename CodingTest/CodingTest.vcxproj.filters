@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\BarkingDogLecture">
       <UniqueIdentifier>{ac0a0d2b-5cc6-45df-8380-453144aa13a4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\코딩테스트">
+      <UniqueIdentifier>{24e5539a-bc91-454c-a7b5-cd45a06c8aaa}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0x03Array_구현.cpp">
@@ -149,6 +152,12 @@
     </ClCompile>
     <ClCompile Include="3273_두수의합.cpp">
       <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="콩_코딩테스트_배열_합치기.cpp">
+      <Filter>소스 파일\코딩테스트</Filter>
+    </ClCompile>
+    <ClCompile Include="mergesort.cpp">
+      <Filter>소스 파일\코딩테스트</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
