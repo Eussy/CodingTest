@@ -147,5 +147,17 @@
     <ClCompile Include="1074_Z.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
+    <ClCompile Include="11728_배열 합치기.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="0x0EMergeSort_구현.cpp">
+      <Filter>소스 파일\BarkingDogLecture</Filter>
+    </ClCompile>
+    <ClCompile Include="2751_수 정렬하기.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="0x0EQuickSort_구현.cpp">
+      <Filter>소스 파일\BarkingDogLecture</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
