@@ -113,7 +113,7 @@ int main(void) {
             vec.resize(width);
         for (int y = 0; y < height; y++) {
             for (int x = 0; x < width; x++) {
-                vec_180[y][x] = stickers[i][height - y - 1][x];
+                vec_180[y][x] = stickers[i][height - y - 1][width - x - 1];
             }
         }
         if (IsPossibleToPaste(vec_180)) continue;

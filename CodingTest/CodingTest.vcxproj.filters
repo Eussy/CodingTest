@@ -150,5 +150,47 @@
     <ClCompile Include="1074_Z.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
+    <ClCompile Include="0x0EQuickSort_구현.cpp">
+      <Filter>소스 파일\BarkingDogLecture</Filter>
+    </ClCompile>
+    <ClCompile Include="0x0C백트래킹_구현.cpp">
+      <Filter>소스 파일\BarkingDogLecture</Filter>
+    </ClCompile>
+    <ClCompile Include="0x0EMergeSort_구현.cpp">
+      <Filter>소스 파일\BarkingDogLecture</Filter>
+    </ClCompile>
+    <ClCompile Include="콩_코딩테스트_배열_합치기.cpp">
+      <Filter>소스 파일\코딩테스트</Filter>
+    </ClCompile>
+    <ClCompile Include="n_queen_내풀이.cpp">
+      <Filter>소스 파일\코딩테스트</Filter>
+    </ClCompile>
+    <ClCompile Include="n_queen_바킹독풀이.cpp">
+      <Filter>소스 파일\코딩테스트</Filter>
+    </ClCompile>
+    <ClCompile Include="mergesort.cpp">
+      <Filter>소스 파일\코딩테스트</Filter>
+    </ClCompile>
+    <ClCompile Include="1182_부분수열의합.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9663_n_queen.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11728_배열 합치기.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14954_HappyNumber.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15649_N과M(1).cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15683_감시.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="18808_스티커_붙이기.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

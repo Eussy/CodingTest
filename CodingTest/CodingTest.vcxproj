@@ -151,11 +151,7 @@
     <ClCompile Include="0x0EMergeSort_구현.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="0x0EQuickSort_구현.cpp" />
-    <ClCompile Include="1074_Z.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="1074_Z.cpp">
+    <ClCompile Include="0x0EQuickSort_구현.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="10799_쇠막대기.cpp">
