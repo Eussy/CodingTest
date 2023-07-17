@@ -147,9 +147,6 @@
     <ClCompile Include="11729_하노이 탑 이동 순서.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
-    <ClCompile Include="1074_Z.cpp">
-      <Filter>소스 파일\BOJ</Filter>
-    </ClCompile>
     <ClCompile Include="0x0EQuickSort_구현.cpp">
       <Filter>소스 파일\BarkingDogLecture</Filter>
     </ClCompile>
@@ -190,6 +187,9 @@
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
     <ClCompile Include="18808_스티커_붙이기.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="12100_2048%28easy%29.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
   </ItemGroup>
